@@ -1,0 +1,6 @@
+1;Chicken Burger;3.00;
+2;Double Chicken Burger;4.00;
+3;Fish Fillet Burger;3.20;
+4;Double Fish Burger;4.20;
+5;Beef Burger;3.50;
+6;Double Beef Burger;4.50;

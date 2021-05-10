@@ -1,0 +1,6 @@
+1;Buddy Chicken Burger Combo;9.00;
+2;Buddy Fish Burger Combo;10.00;
+3;Buddy Chicken Fish Burger Combo;10.00;
+4;Family-of-4 Chicken Burger Combo;18.00;
+5;Family-of-4 Fish Burger Combo;20.00;
+6;Family-of-4 Chicken Fish Burger Combo;19.00;

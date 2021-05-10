@@ -1,0 +1,6 @@
+1;Chicken Burger Combo;5.00;
+2;Double Chicken Burger Combo;7.00;
+3;Fish Burger Combo;5.50;
+4;Double Fish Burger Combo;7.50;
+5;Beef Burger Combo;6.00;
+6;Double Beef Burger Combo;8.00;
