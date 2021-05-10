@@ -1,0 +1,6 @@
+1;Coffee (Hot);0.90;
+2;Tea (Hot);0.80;
+3;Lemonade (Cold);1.00;
+4;Orange Juice (Cold);1.00;
+5;Coke (Cold);1.20;
+6;Root Beer (Cold);1.20;
